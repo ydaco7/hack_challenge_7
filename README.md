@@ -10,7 +10,5 @@
 
 <hr>
 
-# Hack_challenge_7 - hack_sql_1 
-
 
 # Test de SQL 
